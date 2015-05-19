@@ -7,3 +7,8 @@ Collecting django
   Downloading Django-1.8.1-py2.py3-none-any.whl (6.2MB)
 Installing collected packages: django
 Successfully installed django-1.8.1
+Collecting south
+  Downloading South-1.0.2.tar.gz (96kB)
+Installing collected packages: south
+  Running setup.py install for south
+Successfully installed south-1.0.2

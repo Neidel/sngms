@@ -239,3 +239,4 @@ xfce4-taskmanager-Message: Running as root on localhost
 Xlib:  extension "RANDR" missing on display ":1.0".
 Xlib:  extension "RANDR" missing on display ":1.0".
 Xlib:  extension "RANDR" missing on display ":1.0".
+19/05/15 23:41:06 KbdAddEvent: unknown KeySym 0xff8d - allocating KeyCode 89
