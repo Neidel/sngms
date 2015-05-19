@@ -1,0 +1,241 @@
+19/05/15 23:08:55 Xvnc version TightVNC-1.3.9
+19/05/15 23:08:55 Copyright (C) 2000-2007 TightVNC Group
+19/05/15 23:08:55 Copyright (C) 1999 AT&T Laboratories Cambridge
+19/05/15 23:08:55 All Rights Reserved.
+19/05/15 23:08:55 See http://www.tightvnc.com/ for information on TightVNC
+19/05/15 23:08:55 Desktop name 'X' (localhost:1)
+19/05/15 23:08:55 Protocol versions supported: 3.3, 3.7, 3.8, 3.7t, 3.8t
+19/05/15 23:08:55 Listening for VNC connections on TCP port 5901
+Font directory '/usr/share/fonts/X11/75dpi/' not found - ignoring
+Font directory '/usr/share/fonts/X11/100dpi/' not found - ignoring
+xrdb: No such file or directory
+xrdb: can't open file '/root/.Xresources'
+/usr/bin/startxfce4: X server already running on display :1
+Xlib:  extension "RANDR" missing on display ":1".
+Xlib:  extension "RANDR" missing on display ":1.0".
+
+(xfwm4:2273): xfwm4-WARNING **: The display does not support the XRender extension.
+
+(xfwm4:2273): xfwm4-WARNING **: The display does not support the XRandr extension.
+
+(xfwm4:2273): xfwm4-WARNING **: The display does not support the XComposite extension.
+
+(xfwm4:2273): xfwm4-WARNING **: The display does not support the XDamage extension.
+
+(xfwm4:2273): xfwm4-WARNING **: The display does not support the XFixes extension.
+
+(xfwm4:2273): xfwm4-WARNING **: Compositing manager disabled.
+Xlib:  extension "RANDR" missing on display ":1".
+Xlib:  extension "RANDR" missing on display ":1.0".
+Xlib:  extension "RANDR" missing on display ":1.0".
+
+(xfsettingsd:2279): xfsettingsd-CRITICAL **: No RANDR extension found in display :1.0. Display settings won't be applied.
+Xlib:  extension "XInputExtension" missing on display ":1.0".
+
+(xfsettingsd:2279): xfsettingsd-CRITICAL **: XI is not present.
+
+(xfsettingsd:2279): xfsettingsd-CRITICAL **: Failed to initialize the Xkb extension.
+
+(xfsettingsd:2279): xfsettingsd-CRITICAL **: Failed to initialize the Accessibility extension.
+Xlib:  extension "RANDR" missing on display ":1.0".
+Xlib:  extension "RANDR" missing on display ":1".
+Xlib:  extension "RANDR" missing on display ":1.0".
+Xlib:  extension "RANDR" missing on display ":1.0".
+Xlib:  extension "RANDR" missing on display ":1.0".
+AUDIT: Tue May 19 23:08:57 2015: 2240 Xtightvnc: client 15 rejected from local host
+Client is not authorized to connect to Serverxscreensaver: 23:08:57: Can't open display: :1.0
+xscreensaver: 23:08:57: initial effective uid/gid was root/root (0/0)
+xscreensaver: 23:08:57: running as nobody/nogroup (65534/65534)
+
+xscreensaver: 23:08:57: This is probably because you're logging in as root.  You
+              shouldn't log in as root: you should log in as a normal user,
+              and then `su' as needed.  If you insist on logging in as
+              root, you will have to turn off X's security features before
+              xscreensaver will work.
+
+              Please read the manual and FAQ for more information:
+
+              http://www.jwz.org/xscreensaver/faq.html
+              http://www.jwz.org/xscreensaver/man.html
+
+Xlib:  extension "RANDR" missing on display ":1.0".
+Connection failure: Connection refused
+pa_context_connect() failed: Connection refused
+Xlib:  extension "RANDR" missing on display ":1.0".
+Xlib:  extension "RANDR" missing on display ":1.0".
+
+** (xfce4-volumed:2315): WARNING **: Binding 'XF86AudioRaiseVolume' failed!
+
+** (xfce4-volumed:2315): WARNING **: Binding '<Ctrl>XF86AudioRaiseVolume' failed!
+
+** (xfce4-volumed:2315): WARNING **: Binding '<Alt>XF86AudioRaiseVolume' failed!
+
+** (xfce4-volumed:2315): WARNING **: Failed to map virtual modifiers
+
+** (xfce4-volumed:2315): WARNING **: Binding '<Shift>XF86AudioRaiseVolume' failed!
+
+** (xfce4-volumed:2315): WARNING **: Binding '<Ctrl><Shift>XF86AudioRaiseVolume' failed!
+
+** (xfce4-volumed:2315): WARNING **: Binding '<Ctrl><Alt>XF86AudioRaiseVolume' failed!
+
+** (xfce4-volumed:2315): WARNING **: Failed to map virtual modifiers
+
+** (xfce4-volumed:2315): WARNING **: Binding '<Alt><Shift>XF86AudioRaiseVolume' failed!
+
+** (xfce4-volumed:2315): WARNING **: Failed to map virtual modifiers
+
+** (xfce4-volumed:2315): WARNING **: Failed to map virtual modifiers
+
+** (xfce4-volumed:2315): WARNING **: Failed to map virtual modifiers
+
+** (xfce4-volumed:2315): WARNING **: Binding '<Ctrl><Shift><Alt>XF86AudioRaiseVolume' failed!
+
+** (xfce4-volumed:2315): WARNING **: Failed to map virtual modifiers
+
+** (xfce4-volumed:2315): WARNING **: Failed to map virtual modifiers
+
+** (xfce4-volumed:2315): WARNING **: Failed to map virtual modifiers
+
+** (xfce4-volumed:2315): WARNING **: Binding 'XF86AudioLowerVolume' failed!
+
+** (xfce4-volumed:2315): WARNING **: Binding '<Ctrl>XF86AudioLowerVolume' failed!
+
+** (xfce4-volumed:2315): WARNING **: Binding '<Alt>XF86AudioLowerVolume' failed!
+
+** (xfce4-volumed:2315): WARNING **: Failed to map virtual modifiers
+
+** (xfce4-volumed:2315): WARNING **: Binding '<Shift>XF86AudioLowerVolume' failed!
+
+** (xfce4-volumed:2315): WARNING **: Binding '<Ctrl><Shift>XF86AudioLowerVolume' failed!
+
+** (xfce4-volumed:2315): WARNING **: Binding '<Ctrl><Alt>XF86AudioLowerVolume' failed!
+
+** (xfce4-volumed:2315): WARNING **: Failed to map virtual modifiers
+
+** (xfce4-volumed:2315): WARNING **: Binding '<Alt><Shift>XF86AudioLowerVolume' failed!
+
+** (xfce4-volumed:2315): WARNING **: Failed to map virtual modifiers
+
+** (xfce4-volumed:2315): WARNING **: Failed to map virtual modifiers
+
+** (xfce4-volumed:2315): WARNING **: Failed to map virtual modifiers
+
+** (xfce4-volumed:2315): WARNING **: Binding '<Ctrl><Shift><Alt>XF86AudioLowerVolume' failed!
+
+** (xfce4-volumed:2315): WARNING **: Failed to map virtual modifiers
+
+** (xfce4-volumed:2315): WARNING **: Failed to map virtual modifiers
+
+** (xfce4-volumed:2315): WARNING **: Failed to map virtual modifiers
+
+** (xfce4-volumed:2315): WARNING **: Binding 'XF86AudioMute' failed!
+
+** (xfce4-volumed:2315): WARNING **: Binding '<Ctrl>XF86AudioMute' failed!
+
+** (xfce4-volumed:2315): WARNING **: Binding '<Alt>XF86AudioMute' failed!
+
+** (xfce4-volumed:2315): WARNING **: Failed to map virtual modifiers
+
+** (xfce4-volumed:2315): WARNING **: Binding '<Shift>XF86AudioMute' failed!
+
+** (xfce4-volumed:2315): WARNING **: Binding '<Ctrl><Shift>XF86AudioMute' failed!
+
+** (xfce4-volumed:2315): WARNING **: Binding '<Ctrl><Alt>XF86AudioMute' failed!
+
+** (xfce4-volumed:2315): WARNING **: Failed to map virtual modifiers
+
+** (xfce4-volumed:2315): WARNING **: Binding '<Alt><Shift>XF86AudioMute' failed!
+
+** (xfce4-volumed:2315): WARNING **: Failed to map virtual modifiers
+
+** (xfce4-volumed:2315): WARNING **: Failed to map virtual modifiers
+
+** (xfce4-volumed:2315): WARNING **: Failed to map virtual modifiers
+
+** (xfce4-volumed:2315): WARNING **: Binding '<Ctrl><Shift><Alt>XF86AudioMute' failed!
+
+** (xfce4-volumed:2315): WARNING **: Failed to map virtual modifiers
+
+** (xfce4-volumed:2315): WARNING **: Failed to map virtual modifiers
+
+** (xfce4-volumed:2315): WARNING **: Failed to map virtual modifiers
+
+(xfce4-volumed:2315): xfce4-volumed-WARNING **: xvd_connect_to_pulse: failed to connect context: OK
+
+(xfce4-volumed:2315): xfce4-volumed-WARNING **: Unable to initialize pulseaudio support, quitting
+
+(xfce4-volumed:2315): GLib-GObject-CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+(polkit-gnome-authentication-agent-1:2313): GLib-CRITICAL **: g_variant_new_string: assertion 'string != NULL' failed
+
+(polkit-gnome-authentication-agent-1:2313): polkit-gnome-1-WARNING **: Failed to register client: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+
+19/05/15 23:09:07 Got connection from client 127.0.0.1
+19/05/15 23:09:07 Using protocol version 3.8
+19/05/15 23:09:07 Enabling TightVNC protocol extensions
+19/05/15 23:09:09 Full-control authentication passed by 127.0.0.1
+19/05/15 23:09:09 Using tight encoding for client 127.0.0.1
+19/05/15 23:09:09 rfbProcessClientNormalMessage: ignoring unknown encoding 16
+19/05/15 23:09:09 Using image quality level 6 for client 127.0.0.1
+19/05/15 23:09:09 rfbProcessClientNormalMessage: ignoring unknown encoding -223
+19/05/15 23:09:09 Enabling LastRect protocol extension for client 127.0.0.1
+19/05/15 23:09:09 Enabling cursor position updates for client 127.0.0.1
+19/05/15 23:09:09 Enabling full-color cursor updates for client 127.0.0.1
+19/05/15 23:09:09 Pixel format for client 127.0.0.1:
+19/05/15 23:09:09   32 bpp, depth 24, little endian
+19/05/15 23:09:09   true colour: max r 255 g 255 b 255, shift r 16 g 8 b 0
+
+(xfce4-panel:2276): Gtk-CRITICAL **: IA__gtk_widget_show: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(xfce4-panel:2276): Gtk-CRITICAL **: IA__gtk_widget_show: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(xfce4-panel:2276): Gtk-CRITICAL **: IA__gtk_widget_show: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(xfce4-panel:2276): Gtk-CRITICAL **: IA__gtk_widget_show: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(xfce4-panel:2276): Gtk-CRITICAL **: IA__gtk_widget_show: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(xfce4-panel:2276): Gtk-CRITICAL **: IA__gtk_widget_show: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(xfce4-panel:2276): Gtk-CRITICAL **: IA__gtk_widget_show: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(xfce4-panel:2276): Gtk-CRITICAL **: IA__gtk_widget_show: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(xfce4-panel:2276): Gtk-CRITICAL **: IA__gtk_widget_show: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(xfce4-panel:2276): Gtk-CRITICAL **: IA__gtk_widget_show: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(xfce4-panel:2276): Gtk-CRITICAL **: IA__gtk_widget_show: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(xfce4-panel:2276): Gtk-CRITICAL **: IA__gtk_widget_show: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(xfce4-panel:2276): Gtk-CRITICAL **: IA__gtk_widget_show: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(xfce4-panel:2276): Gtk-CRITICAL **: IA__gtk_widget_show: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(xfce4-panel:2276): Gtk-CRITICAL **: IA__gtk_widget_show: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(xfce4-panel:2276): Gtk-CRITICAL **: IA__gtk_widget_show: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(xfce4-panel:2276): Gtk-CRITICAL **: IA__gtk_widget_show: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(xfce4-panel:2276): Gtk-CRITICAL **: IA__gtk_widget_show: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(xfce4-panel:2276): Gtk-CRITICAL **: IA__gtk_widget_show: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(xfce4-panel:2276): Gtk-CRITICAL **: IA__gtk_widget_show: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(xfce4-panel:2276): Gtk-CRITICAL **: IA__gtk_widget_show: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(xfce4-panel:2276): Gtk-CRITICAL **: IA__gtk_widget_show: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(xfce4-panel:2276): Gtk-CRITICAL **: IA__gtk_widget_show: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(xfce4-panel:2276): Gtk-CRITICAL **: IA__gtk_widget_show: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(xfce4-panel:2276): Gtk-CRITICAL **: IA__gtk_widget_show: assertion 'GTK_IS_WIDGET (widget)' failed
+Xlib:  extension "RANDR" missing on display ":1.0".
+xfce4-taskmanager-Message: Running as root on localhost
+Xlib:  extension "RANDR" missing on display ":1.0".
+Xlib:  extension "RANDR" missing on display ":1.0".
+Xlib:  extension "RANDR" missing on display ":1.0".

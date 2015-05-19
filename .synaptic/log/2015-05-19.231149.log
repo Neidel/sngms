@@ -1,0 +1,39 @@
+Commit Log for Tue May 19 23:11:49 2015
+
+
+Upgraded the following packages:
+libc6 (2.19-0ubuntu6.3) to 2.19-0ubuntu6.6
+
+Installed the following packages:
+binutils (2.24-5ubuntu3.1)
+build-essential (11.6ubuntu6)
+dpkg-dev (1.17.5ubuntu5.4)
+fakeroot (1.20-3ubuntu2)
+g++ (4:4.8.2-1ubuntu6)
+g++-4.8 (4.8.2-19ubuntu1)
+gcc (4:4.8.2-1ubuntu6)
+gcc-4.8 (4.8.2-19ubuntu1)
+libalgorithm-diff-perl (1.19.02-3)
+libalgorithm-diff-xs-perl (0.04-2build4)
+libalgorithm-merge-perl (0.08-2)
+libasan0 (4.8.2-19ubuntu1)
+libatomic1 (4.8.2-19ubuntu1)
+libc-dev-bin (2.19-0ubuntu6.6)
+libc6-dev (2.19-0ubuntu6.6)
+libdpkg-perl (1.17.5ubuntu5.4)
+libfakeroot (1.20-3ubuntu2)
+libfile-fcntllock-perl (0.14-2build1)
+libgcc-4.8-dev (4.8.2-19ubuntu1)
+libitm1 (4.8.2-19ubuntu1)
+libquadmath0 (4.8.2-19ubuntu1)
+libstdc++-4.8-dev (4.8.2-19ubuntu1)
+libtsan0 (4.8.2-19ubuntu1)
+linux-libc-dev (3.13.0-52.86)
+make (3.81-8.2ubuntu3)
+manpages-dev (3.54-1ubuntu1)
+python-colorama (0.2.5-0.1ubuntu2)
+python-distlib (0.1.8-1ubuntu1)
+python-html5lib (0.999-3~ubuntu1)
+python-pip (1.5.4-1ubuntu1)
+python-setuptools (3.3-1ubuntu1)
+python-wheel (0.24.0-1~ubuntu1)

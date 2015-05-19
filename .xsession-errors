@@ -1,0 +1,199 @@
+Xsession: X session started for root at Tue May 19 21:52:27 UTC 2015
+X Error of failed request:  BadValue (integer parameter out of range for operation)
+  Major opcode of failed request:  109 (X_ChangeHosts)
+  Value in failed request:  0x5
+  Serial number of failed request:  6
+  Current serial number in output stream:  8
+localuser:root being added to access control list
+X Error of failed request:  BadValue (integer parameter out of range for operation)
+  Major opcode of failed request:  109 (X_ChangeHosts)
+  Value in failed request:  0x5
+  Serial number of failed request:  6
+  Current serial number in output stream:  8
+Xlib:  extension "RANDR" missing on display ":1".
+xfce4-session-Message: ssh-agent is already running
+Xlib:  extension "RANDR" missing on display ":1.0".
+
+(xfwm4:10859): xfwm4-WARNING **: The display does not support the XRender extension.
+
+(xfwm4:10859): xfwm4-WARNING **: The display does not support the XRandr extension.
+
+(xfwm4:10859): xfwm4-WARNING **: The display does not support the XComposite extension.
+
+(xfwm4:10859): xfwm4-WARNING **: The display does not support the XDamage extension.
+
+(xfwm4:10859): xfwm4-WARNING **: The display does not support the XFixes extension.
+
+(xfwm4:10859): xfwm4-WARNING **: Compositing manager disabled.
+Xlib:  extension "RANDR" missing on display ":1.0".
+Xlib:  extension "RANDR" missing on display ":1.0".
+Xlib:  extension "RANDR" missing on display ":1.0".
+Client is not authorized to connect to Serverxscreensaver: 21:52:27: Can't open display: :1.0
+xscreensaver: 21:52:27: initial effective uid/gid was root/root (0/0)
+xscreensaver: 21:52:27: running as nobody/nogroup (65534/65534)
+
+xscreensaver: 21:52:27: This is probably because you're logging in as root.  You
+              shouldn't log in as root: you should log in as a normal user,
+              and then `su' as needed.  If you insist on logging in as
+              root, you will have to turn off X's security features before
+              xscreensaver will work.
+
+              Please read the manual and FAQ for more information:
+
+              http://www.jwz.org/xscreensaver/faq.html
+              http://www.jwz.org/xscreensaver/man.html
+
+Connection failure: Connection refused
+pa_context_connect() failed: Connection refused
+Xlib:  extension "RANDR" missing on display ":1.0".
+Xlib:  extension "RANDR" missing on display ":1.0".
+
+(xfsettingsd:10882): xfsettingsd-CRITICAL **: No RANDR extension found in display :1.0. Display settings won't be applied.
+Xlib:  extension "XInputExtension" missing on display ":1.0".
+
+(xfsettingsd:10882): xfsettingsd-CRITICAL **: XI is not present.
+
+(xfsettingsd:10882): xfsettingsd-CRITICAL **: Failed to initialize the Xkb extension.
+
+(xfsettingsd:10882): xfsettingsd-CRITICAL **: Failed to initialize the Accessibility extension.
+
+(xfsettingsd:10882): GLib-CRITICAL **: g_str_has_prefix: assertion 'prefix != NULL' failed
+
+(xfsettingsd:10882): GLib-CRITICAL **: g_hash_table_destroy: assertion 'hash_table != NULL' failed
+
+(xfsettingsd:10882): GLib-GObject-CRITICAL **: object XklEngine 0x7efd3a39e9a0 finalized while still in-construction
+
+(xfsettingsd:10882): GLib-GObject-CRITICAL **: Custom constructor for class XklEngine returned NULL (which is invalid). Please use GInitable instead.
+Xlib:  extension "RANDR" missing on display ":1.0".
+Xlib:  extension "RANDR" missing on display ":1.0".
+
+** (xfce4-volumed:10888): WARNING **: Binding 'XF86AudioRaiseVolume' failed!
+
+** (xfce4-volumed:10888): WARNING **: Binding '<Ctrl>XF86AudioRaiseVolume' failed!
+
+** (xfce4-volumed:10888): WARNING **: Binding '<Alt>XF86AudioRaiseVolume' failed!
+
+** (xfce4-volumed:10888): WARNING **: Failed to map virtual modifiers
+
+** (xfce4-volumed:10888): WARNING **: Binding '<Shift>XF86AudioRaiseVolume' failed!
+
+** (xfce4-volumed:10888): WARNING **: Binding '<Ctrl><Shift>XF86AudioRaiseVolume' failed!
+
+** (xfce4-volumed:10888): WARNING **: Binding '<Ctrl><Alt>XF86AudioRaiseVolume' failed!
+
+** (xfce4-volumed:10888): WARNING **: Failed to map virtual modifiers
+
+** (xfce4-volumed:10888): WARNING **: Binding '<Alt><Shift>XF86AudioRaiseVolume' failed!
+
+** (xfce4-volumed:10888): WARNING **: Failed to map virtual modifiers
+
+** (xfce4-volumed:10888): WARNING **: Failed to map virtual modifiers
+
+** (xfce4-volumed:10888): WARNING **: Failed to map virtual modifiers
+
+** (xfce4-volumed:10888): WARNING **: Binding '<Ctrl><Shift><Alt>XF86AudioRaiseVolume' failed!
+
+** (xfce4-volumed:10888): WARNING **: Failed to map virtual modifiers
+
+** (xfce4-volumed:10888): WARNING **: Failed to map virtual modifiers
+
+** (xfce4-volumed:10888): WARNING **: Failed to map virtual modifiers
+
+** (xfce4-volumed:10888): WARNING **: Binding 'XF86AudioLowerVolume' failed!
+
+** (xfce4-volumed:10888): WARNING **: Binding '<Ctrl>XF86AudioLowerVolume' failed!
+
+** (xfce4-volumed:10888): WARNING **: Binding '<Alt>XF86AudioLowerVolume' failed!
+
+** (xfce4-volumed:10888): WARNING **: Failed to map virtual modifiers
+
+** (xfce4-volumed:10888): WARNING **: Binding '<Shift>XF86AudioLowerVolume' failed!
+
+** (xfce4-volumed:10888): WARNING **: Binding '<Ctrl><Shift>XF86AudioLowerVolume' failed!
+
+** (xfce4-volumed:10888): WARNING **: Binding '<Ctrl><Alt>XF86AudioLowerVolume' failed!
+
+** (xfce4-volumed:10888): WARNING **: Failed to map virtual modifiers
+
+** (xfce4-volumed:10888): WARNING **: Binding '<Alt><Shift>XF86AudioLowerVolume' failed!
+
+** (xfce4-volumed:10888): WARNING **: Failed to map virtual modifiers
+
+** (xfce4-volumed:10888): WARNING **: Failed to map virtual modifiers
+
+** (xfce4-volumed:10888): WARNING **: Failed to map virtual modifiers
+
+** (xfce4-volumed:10888): WARNING **: Binding '<Ctrl><Shift><Alt>XF86AudioLowerVolume' failed!
+
+** (xfce4-volumed:10888): WARNING **: Failed to map virtual modifiers
+
+** (xfce4-volumed:10888): WARNING **: Failed to map virtual modifiers
+
+** (xfce4-volumed:10888): WARNING **: Failed to map virtual modifiers
+
+** (xfce4-volumed:10888): WARNING **: Binding 'XF86AudioMute' failed!
+
+** (xfce4-volumed:10888): WARNING **: Binding '<Ctrl>XF86AudioMute' failed!
+
+** (xfce4-volumed:10888): WARNING **: Binding '<Alt>XF86AudioMute' failed!
+
+** (xfce4-volumed:10888): WARNING **: Failed to map virtual modifiers
+
+** (xfce4-volumed:10888): WARNING **: Binding '<Shift>XF86AudioMute' failed!
+
+** (xfce4-volumed:10888): WARNING **: Binding '<Ctrl><Shift>XF86AudioMute' failed!
+
+** (xfce4-volumed:10888): WARNING **: Binding '<Ctrl><Alt>XF86AudioMute' failed!
+
+** (xfce4-volumed:10888): WARNING **: Failed to map virtual modifiers
+
+** (xfce4-volumed:10888): WARNING **: Binding '<Alt><Shift>XF86AudioMute' failed!
+
+** (xfce4-volumed:10888): WARNING **: Failed to map virtual modifiers
+
+** (xfce4-volumed:10888): WARNING **: Failed to map virtual modifiers
+
+** (xfce4-volumed:10888): WARNING **: Failed to map virtual modifiers
+
+** (xfce4-volumed:10888): WARNING **: Binding '<Ctrl><Shift><Alt>XF86AudioMute' failed!
+
+** (xfce4-volumed:10888): WARNING **: Failed to map virtual modifiers
+
+** (xfce4-volumed:10888): WARNING **: Failed to map virtual modifiers
+
+** (xfce4-volumed:10888): WARNING **: Failed to map virtual modifiers
+Xlib:  extension "RANDR" missing on display ":1.0".
+
+(xfsettingsd:10889): xfsettingsd-CRITICAL **: No RANDR extension found in display :1.0. Display settings won't be applied.
+Xlib:  extension "XInputExtension" missing on display ":1.0".
+
+(xfsettingsd:10889): xfsettingsd-CRITICAL **: XI is not present.
+
+(xfsettingsd:10889): xfsettingsd-CRITICAL **: Failed to initialize the Xkb extension.
+
+(xfsettingsd:10889): xfsettingsd-CRITICAL **: Failed to initialize the Accessibility extension.
+
+(xfce4-volumed:10888): xfce4-volumed-WARNING **: xvd_connect_to_pulse: failed to connect context: OK
+
+(xfce4-volumed:10888): xfce4-volumed-WARNING **: Unable to initialize pulseaudio support, quitting
+
+(xfce4-volumed:10888): GLib-GObject-CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+(xfsettingsd:10889): GLib-CRITICAL **: g_hash_table_destroy: assertion 'hash_table != NULL' failed
+
+(xfsettingsd:10889): GLib-GObject-CRITICAL **: object XklEngine 0x7fa294dd1200 finalized while still in-construction
+
+(xfsettingsd:10889): GLib-GObject-CRITICAL **: Custom constructor for class XklEngine returned NULL (which is invalid). Please use GInitable instead.
+
+(polkit-gnome-authentication-agent-1:10881): GLib-CRITICAL **: g_variant_new_string: assertion 'string != NULL' failed
+
+(polkit-gnome-authentication-agent-1:10881): polkit-gnome-1-WARNING **: Failed to register client: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+
+(xfwm4:10859): GLib-CRITICAL **: g_str_has_prefix: assertion 'prefix != NULL' failed
+
+(xfwm4:10859): xfwm4-WARNING **: The property '/general/double_click_distance' of type int is not supported
+x-session-manager: Fatal IO error 11 (Resource temporarily unavailable) on X server :1.
+xfwm4: Fatal IO error 11 (Resource temporarily unavailable) on X server :1.0.
+g_dbus_connection_real_closed: Remote peer vanished with error: Underlying GIOStream returned 0 bytes on an async read (g-io-error-quark, 0). Exiting.
+g_dbus_connection_real_closed: Remote peer vanished with error: Underlying GIOStream returned 0 bytes on an async read (g-io-error-quark, 0). Exiting.
+xfdesktop: Fatal IO error 11 (Resource temporarily unavailable) on X server :1.0.

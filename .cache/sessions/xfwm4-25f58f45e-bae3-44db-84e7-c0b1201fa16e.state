@@ -1,0 +1,13 @@
+[CLIENT] 0x4000007
+  [CLIENT_ID] 25d36c534-f6ea-4dc6-87fa-a162880c5834
+  [CLIENT_LEADER] 0x4000001
+  [WINDOW_ROLE] xfce4-terminal-1432076161-257500596
+  [RES_NAME] xfce4-terminal
+  [RES_CLASS] Xfce4-terminal
+  [WM_NAME] Terminal - root@localhost: /usr/lib/python2.7
+  [WM_COMMAND] (1) "xfce4-terminal"
+  [GEOMETRY] (150,89,850,385)
+  [GEOMETRY-MAXIMIZED] (150,89,850,385)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10000
